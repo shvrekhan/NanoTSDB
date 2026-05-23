@@ -134,6 +134,33 @@ public class OffHeapMemTable implements MemTable {
         return frozen;
     }
 
+    public void clear() {
+        writeLock.lock();
+        try {
+            writePosition.set(0);
+            index.clear();
+            directBuffer.clear();
+        } finally {
+            writeLock.unlock();
+        }
+    }
+
+    public void close() {
+        clear();
+        // Best-effort eager release of direct buffer
+        try {
+            var cleanerMethod = directBuffer.getClass().getMethod("cleaner");
+            cleanerMethod.setAccessible(true);
+            Object cleaner = cleanerMethod.invoke(directBuffer);
+            if (cleaner != null) {
+                var cleanMethod = cleaner.getClass().getMethod("clean");
+                cleanMethod.invoke(cleaner);
+            }
+        } catch (Exception ignored) {
+            // GC will handle it eventually
+        }
+    }
+
     // reads the value field from a data point stored at the given offset in the direct buffer
     private double readValueAt(int offset) {
         ByteBuffer dup = directBuffer.duplicate();

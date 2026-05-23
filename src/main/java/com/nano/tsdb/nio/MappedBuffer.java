@@ -2,6 +2,7 @@ package com.nano.tsdb.nio;
 
 import java.io.Closeable;
 import java.io.IOException;
+import java.lang.reflect.Method;
 import java.nio.ByteBuffer;
 import java.nio.MappedByteBuffer;
 import java.nio.channels.FileChannel;
@@ -76,15 +77,29 @@ public class MappedBuffer implements Closeable {
     @Override
     public void close() throws IOException {
         // try to unmap eagerly instead of waiting for GC
+        boolean cleaned = false;
         try {
-            var cleaner = buffer.getClass().getMethod("cleaner");
-            cleaner.setAccessible(true);
-            Object c = cleaner.invoke(buffer);
-            if (c != null) {
-                c.getClass().getMethod("clean").invoke(c);
-            }
+            Class<?> unsafeClass = Class.forName("sun.misc.Unsafe");
+            java.lang.reflect.Field f = unsafeClass.getDeclaredField("theUnsafe");
+            f.setAccessible(true);
+            Object unsafe = f.get(null);
+            Method invokeCleaner = unsafeClass.getMethod("invokeCleaner", ByteBuffer.class);
+            invokeCleaner.invoke(unsafe, buffer);
+            cleaned = true;
         } catch (Exception ignored) {
-            // not all JVMs expose cleaner — GC will handle it eventually
+        }
+
+        if (!cleaned) {
+            try {
+                var cleaner = buffer.getClass().getMethod("cleaner");
+                cleaner.setAccessible(true);
+                Object c = cleaner.invoke(buffer);
+                if (c != null) {
+                    c.getClass().getMethod("clean").invoke(c);
+                }
+            } catch (Exception ignored) {
+                // not all JVMs expose cleaner — GC will handle it eventually
+            }
         }
         channel.close();
     }
