@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicLong;
 
-public class WALManager {
+public class WALManager implements AutoCloseable {
 
     private final FileChannel channel;
     private final EngineConfig.FsyncPolicy fsyncPolicy;

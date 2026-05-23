@@ -4,3 +4,89 @@
 2026.05.24 01:52:20 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/storage/wal/WALManager.java. Using fallback presentation compiler.
 2026.05.24 01:52:20 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/storage/wal/WALManager.java. Using fallback presentation compiler.
 2026.05.24 01:52:56 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/storage/wal/WALManager.java. Using fallback presentation compiler.
+2026.05.24 01:53:32 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/storage/wal/WALManager.java. Using fallback presentation compiler.
+2026.05.24 01:54:24 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/storage/wal/WALManager.java. Using fallback presentation compiler.
+2026.05.24 01:55:33 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/storage/wal/WALManager.java. Using fallback presentation compiler.
+2026.05.24 01:55:33 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryResult.java. Using fallback presentation compiler.
+2026.05.24 01:55:33 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryResult.java. Using fallback presentation compiler.
+2026.05.24 01:55:33 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryResult.java. Using fallback presentation compiler.
+2026.05.24 01:55:33 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryResult.java. Using fallback presentation compiler.
+2026.05.24 01:55:33 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryResult.java. Using fallback presentation compiler.
+2026.05.24 01:55:33 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryResult.java. Using fallback presentation compiler.
+2026.05.24 01:55:34 INFO  empty definition using pc, found symbol in pc: com/nano/tsdb/storage/memtable/MemTable# (full report at: "/Users/shiva/Desktop/code/NanoTSDB/.metals/.reports/metals-full/2026-05-24/r_empty-definition_01-55-34-020.md")
+2026.05.24 01:55:34 INFO  empty definition using pc, found symbol in pc: com/nano/tsdb/storage/memtable/MemTable# (full report at: "/Users/shiva/Desktop/code/NanoTSDB/.metals/.reports/metals-full/2026-05-24/r_empty-definition_01-55-34-020.md")
+2026.05.24 01:55:33 INFO  Created report: Optional[file:///Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryResult.java]
+2026.05.24 01:55:33 INFO  empty definition using pc, found symbol in pc: com/nano/tsdb/storage/memtable/MemTable# (full report at: "/Users/shiva/Desktop/code/NanoTSDB/.metals/.reports/metals-full/2026-05-24/r_empty-definition_01-55-34-020.md")
+2026.05.24 01:55:35 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryResult.java. Using fallback presentation compiler.
+2026.05.24 01:55:35 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/StorageEngine.java. Using fallback presentation compiler.
+2026.05.24 01:55:35 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/StorageEngine.java. Using fallback presentation compiler.
+2026.05.24 01:55:35 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/StorageEngine.java. Using fallback presentation compiler.
+2026.05.24 01:55:35 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/StorageEngine.java. Using fallback presentation compiler.
+2026.05.24 01:55:35 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/StorageEngine.java. Using fallback presentation compiler.
+2026.05.24 01:55:35 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/StorageEngine.java. Using fallback presentation compiler.
+2026.05.24 01:55:35 INFO  empty definition using pc, found symbol in pc: java/io/IOException# (full report at: "/Users/shiva/Desktop/code/NanoTSDB/.metals/.reports/metals-full/2026-05-24/r_empty-definition_01-55-35-328.md")
+2026.05.24 01:55:35 INFO  empty definition using pc, found symbol in pc: java/io/IOException# (full report at: "/Users/shiva/Desktop/code/NanoTSDB/.metals/.reports/metals-full/2026-05-24/r_empty-definition_01-55-35-328.md")
+2026.05.24 01:55:35 INFO  Created report: Optional[file:///Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/StorageEngine.java]
+2026.05.24 01:55:35 INFO  empty definition using pc, found symbol in pc: java/io/IOException# (full report at: "/Users/shiva/Desktop/code/NanoTSDB/.metals/.reports/metals-full/2026-05-24/r_empty-definition_01-55-35-328.md")
+2026.05.24 01:55:39 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/StorageEngine.java. Using fallback presentation compiler.
+2026.05.24 01:55:39 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/storage/sstable/SSTableManager.java. Using fallback presentation compiler.
+2026.05.24 01:55:39 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/storage/sstable/SSTableManager.java. Using fallback presentation compiler.
+2026.05.24 01:55:39 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/storage/sstable/SSTableManager.java. Using fallback presentation compiler.
+2026.05.24 01:55:39 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/storage/sstable/SSTableManager.java. Using fallback presentation compiler.
+2026.05.24 01:55:39 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/storage/sstable/SSTableManager.java. Using fallback presentation compiler.
+2026.05.24 01:55:39 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/storage/sstable/SSTableManager.java. Using fallback presentation compiler.
+2026.05.24 01:55:39 INFO  Created report: Optional[file:///Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/storage/sstable/SSTableManager.java]
+2026.05.24 01:55:39 INFO  empty definition using pc, found symbol in pc: java/io/IOException# (full report at: "/Users/shiva/Desktop/code/NanoTSDB/.metals/.reports/metals-full/2026-05-24/r_empty-definition_01-55-39-262.md")
+2026.05.24 01:55:39 INFO  empty definition using pc, found symbol in pc: java/io/IOException# (full report at: "/Users/shiva/Desktop/code/NanoTSDB/.metals/.reports/metals-full/2026-05-24/r_empty-definition_01-55-39-262.md")
+2026.05.24 01:55:39 INFO  empty definition using pc, found symbol in pc: java/io/IOException# (full report at: "/Users/shiva/Desktop/code/NanoTSDB/.metals/.reports/metals-full/2026-05-24/r_empty-definition_01-55-39-262.md")
+May 24, 2026 1:55:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34
+2026.05.24 01:55:39 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/storage/sstable/SSTableManager.java. Using fallback presentation compiler.
+2026.05.24 01:55:40 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/storage/sstable/SSTableManager.java. Using fallback presentation compiler.
+2026.05.24 01:55:40 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/storage/sstable/SSTableManager.java. Using fallback presentation compiler.
+2026.05.24 01:55:52 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/storage/sstable/SSTableManager.java. Using fallback presentation compiler.
+2026.05.24 01:55:54 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryResult.java. Using fallback presentation compiler.
+2026.05.24 01:55:54 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryResult.java. Using fallback presentation compiler.
+2026.05.24 01:55:54 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryResult.java. Using fallback presentation compiler.
+2026.05.24 01:55:54 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryResult.java. Using fallback presentation compiler.
+2026.05.24 01:56:02 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java. Using fallback presentation compiler.
+2026.05.24 01:56:02 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java. Using fallback presentation compiler.
+2026.05.24 01:56:03 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java. Using fallback presentation compiler.
+2026.05.24 01:56:03 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java. Using fallback presentation compiler.
+2026.05.24 01:56:02 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java. Using fallback presentation compiler.
+2026.05.24 01:56:02 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java. Using fallback presentation compiler.
+2026.05.24 01:56:03 INFO  Created report: Optional[file:///Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java]
+2026.05.24 01:56:03 INFO  empty definition using pc, found symbol in pc: com/nano/tsdb/storage/memtable/MemTable# (full report at: "/Users/shiva/Desktop/code/NanoTSDB/.metals/.reports/metals-full/2026-05-24/r_empty-definition_01-56-03-050.md")
+2026.05.24 01:56:02 INFO  empty definition using pc, found symbol in pc: com/nano/tsdb/storage/memtable/MemTable# (full report at: "/Users/shiva/Desktop/code/NanoTSDB/.metals/.reports/metals-full/2026-05-24/r_empty-definition_01-56-03-050.md")
+2026.05.24 01:56:03 INFO  empty definition using pc, found symbol in pc: com/nano/tsdb/storage/memtable/MemTable# (full report at: "/Users/shiva/Desktop/code/NanoTSDB/.metals/.reports/metals-full/2026-05-24/r_empty-definition_01-56-03-050.md")
+2026.05.24 01:56:03 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java. Using fallback presentation compiler.
+2026.05.24 01:56:03 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java. Using fallback presentation compiler.
+2026.05.24 01:56:03 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java. Using fallback presentation compiler.
+2026.05.24 01:56:03 INFO  Created report: Optional[file:///Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java]
+2026.05.24 01:56:03 INFO  empty definition using pc, found symbol in pc: com/nano/tsdb/storage/memtable/OnHeapMemTable# (full report at: "/Users/shiva/Desktop/code/NanoTSDB/.metals/.reports/metals-full/2026-05-24/r_empty-definition_01-56-03-121.md")
+2026.05.24 01:56:03 INFO  empty definition using pc, found symbol in pc: com/nano/tsdb/storage/memtable/OnHeapMemTable# (full report at: "/Users/shiva/Desktop/code/NanoTSDB/.metals/.reports/metals-full/2026-05-24/r_empty-definition_01-56-03-121.md")
+2026.05.24 01:56:03 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java. Using fallback presentation compiler.
+2026.05.24 01:56:03 INFO  empty definition using pc, found symbol in pc: com/nano/tsdb/storage/memtable/OnHeapMemTable# (full report at: "/Users/shiva/Desktop/code/NanoTSDB/.metals/.reports/metals-full/2026-05-24/r_empty-definition_01-56-03-121.md")
+2026.05.24 01:56:03 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java. Using fallback presentation compiler.
+2026.05.24 01:56:03 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java. Using fallback presentation compiler.
+2026.05.24 01:56:03 INFO  Created report: Optional[file:///Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java]
+2026.05.24 01:56:03 INFO  empty definition using pc, found symbol in pc: com/nano/tsdb/storage/wal/WALEntry# (full report at: "/Users/shiva/Desktop/code/NanoTSDB/.metals/.reports/metals-full/2026-05-24/r_empty-definition_01-56-03-182.md")
+2026.05.24 01:56:03 INFO  empty definition using pc, found symbol in pc: com/nano/tsdb/storage/wal/WALEntry# (full report at: "/Users/shiva/Desktop/code/NanoTSDB/.metals/.reports/metals-full/2026-05-24/r_empty-definition_01-56-03-182.md")
+2026.05.24 01:56:03 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java. Using fallback presentation compiler.
+2026.05.24 01:56:03 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java. Using fallback presentation compiler.
+2026.05.24 01:56:03 INFO  empty definition using pc, found symbol in pc: com/nano/tsdb/storage/wal/WALEntry# (full report at: "/Users/shiva/Desktop/code/NanoTSDB/.metals/.reports/metals-full/2026-05-24/r_empty-definition_01-56-03-182.md")
+2026.05.24 01:56:03 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java. Using fallback presentation compiler.
+2026.05.24 01:56:03 INFO  Created report: Optional[file:///Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java]
+2026.05.24 01:56:03 INFO  empty definition using pc, found symbol in pc: com/nano/tsdb/storage/wal/WALManager# (full report at: "/Users/shiva/Desktop/code/NanoTSDB/.metals/.reports/metals-full/2026-05-24/r_empty-definition_01-56-03-226.md")
+2026.05.24 01:56:03 INFO  empty definition using pc, found symbol in pc: com/nano/tsdb/storage/wal/WALManager# (full report at: "/Users/shiva/Desktop/code/NanoTSDB/.metals/.reports/metals-full/2026-05-24/r_empty-definition_01-56-03-226.md")
+2026.05.24 01:56:03 INFO  empty definition using pc, found symbol in pc: com/nano/tsdb/storage/wal/WALManager# (full report at: "/Users/shiva/Desktop/code/NanoTSDB/.metals/.reports/metals-full/2026-05-24/r_empty-definition_01-56-03-226.md")
+2026.05.24 01:56:03 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java. Using fallback presentation compiler.
+2026.05.24 01:56:03 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java. Using fallback presentation compiler.
+2026.05.24 01:56:03 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java. Using fallback presentation compiler.
+2026.05.24 01:56:03 INFO  Created report: Optional[file:///Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java]
+2026.05.24 01:56:03 INFO  empty definition using pc, found symbol in pc: java/io/IOException# (full report at: "/Users/shiva/Desktop/code/NanoTSDB/.metals/.reports/metals-full/2026-05-24/r_empty-definition_01-56-03-263.md")
+2026.05.24 01:56:03 INFO  empty definition using pc, found symbol in pc: java/io/IOException# (full report at: "/Users/shiva/Desktop/code/NanoTSDB/.metals/.reports/metals-full/2026-05-24/r_empty-definition_01-56-03-263.md")
+2026.05.24 01:56:03 INFO  empty definition using pc, found symbol in pc: java/io/IOException# (full report at: "/Users/shiva/Desktop/code/NanoTSDB/.metals/.reports/metals-full/2026-05-24/r_empty-definition_01-56-03-263.md")
+2026.05.24 01:56:02 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java. Using fallback presentation compiler.
+2026.05.24 01:56:04 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java. Using fallback presentation compiler.
+2026.05.24 01:56:07 INFO  no build target found for /Users/shiva/Desktop/code/NanoTSDB/src/main/java/com/nano/tsdb/core/RecoveryManager.java. Using fallback presentation compiler.
